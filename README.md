@@ -1,5 +1,7 @@
 # Sabor Express
 
+---
+
 # 📋 Sistema de Cadastro de Restaurantes em Python
 
 Este é um projeto de terminal desenvolvido com o objetivo de consolidar os aprendizados iniciais em Python, aplicando conceitos fundamentais da linguagem na criação de um sistema simples e funcional de cadastro de restaurantes.
